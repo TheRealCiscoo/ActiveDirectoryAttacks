@@ -16,8 +16,8 @@ Fuente: [https://blog.netwrix.com/what-is-kerberos/](https://blog.netwrix.com/wh
 
 > **Tomemos en cuenta lo siguiente:**
 
-- Las cuentas destinadas para estos servicios suelen tener contraseñas débiles al no ser accedidas constantemente por algún usuario y para recordar más fácil se evita suelen usar contraseñas fáciles, por ende son fáciles de crackear.
-- Estas cuentas suelen ser administradores para poder ejecutar dichos servicios y tareas concernientes.
+- Las cuentas destinadas para estos servicios suelen tener contraseñas débiles al no ser accedidas constantemente por algún usuario, y para recordar con facilidad se suele evitar el uso de contraseñas muy robustas, por ende son fáciles de crackear.
+- Estas cuentas suelen ser administradores para poder ejecutar dichos servicios y tareas administrativas.
 > 
 
 Viendolo así darnos cuenta de que es un ataque sencillo y potente a la vez, con la condición de que **debimos haber tenido acceso a una cuenta de usuario del dominio previamente.**
