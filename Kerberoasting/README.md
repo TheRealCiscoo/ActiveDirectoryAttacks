@@ -8,7 +8,7 @@ En los entornos de Active Directory tenemos multiples objetos usuarios, grupos, 
 
 Ahora bien ¿Qué es un ataque Kerberoasting y qué tiene que ver con esto que les he explicado?, un ataque Kerberoasting es un tipo de técnica que abusa de la funcionadidad de Kerberos para capturar el **Ticket Granting Service** **(TGS)** y crackearlo de manera offline, recordando este ticket está cifrado con la contraseña del servicio que se solicita, es decir, la contraseña de la cuenta que gestiona ese servicio.
 
-El ataque se lleva putualiza en el envío del `KRB_TGS_REP` que va desde el KDC al cliente.
+El ataque se lleva a cabo durante el envío del `KRB_TGS_REP` que va desde el KDC al cliente.
 
 ![Fuente: [https://blog.netwrix.com/what-is-kerberos/](https://blog.netwrix.com/what-is-kerberos/)](images/Untitled.png)
 
