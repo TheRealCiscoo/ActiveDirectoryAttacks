@@ -20,7 +20,7 @@ Fuente: [https://blog.netwrix.com/what-is-kerberos/](https://blog.netwrix.com/wh
 - Estas cuentas suelen ser administradores para poder ejecutar dichos servicios y tareas administrativas.
 > 
 
-Viendolo así darnos cuenta de que es un ataque sencillo y potente a la vez, con la condición de que **debimos haber tenido acceso a una cuenta de usuario del dominio previamente.**
+Viendolo así, podemos darnos cuenta de que es un ataque sencillo y potente a la vez, con la condición de que **debemos tener previo acceso a una cuenta de usuario del dominio.**
 
 # Preparación de entorno
 
